@@ -95,5 +95,3 @@ _Extend the `switch` in `Decode` to support more types as needed._
 ## License
 
 MIT [LICENSE](LICENSE)
-
----
